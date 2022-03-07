@@ -1,0 +1,347 @@
+2022-02-20 19:56:45,738 - OrangeHrm -INFO - Entered Username
+2022-02-20 19:56:46,009 - OrangeHrm -INFO - Entered Password
+2022-02-20 19:58:55,852 - OrangeHrm -INFO - Entered Username
+2022-02-20 19:59:00,165 - OrangeHrm -INFO - Entered Password
+2022-02-20 20:01:57,661 - OrangeHrm -INFO - Entered Username
+2022-02-20 20:02:02,830 - OrangeHrm -INFO - Entered Password
+2022-02-20 20:05:40,603 - OrangeHrm -INFO - Entered Username
+2022-02-20 20:05:44,746 - OrangeHrm -INFO - Entered Password
+2022-02-20 20:08:44,670 - OrangeHrm -INFO - Entered Username
+2022-02-20 20:08:49,168 - OrangeHrm -INFO - Entered Password
+2022-02-20 20:08:59,842 - OrangeHrm -INFO - Click operation
+2022-02-20 20:08:59,844 - OrangeHrm -INFO - Logger is Added
+2022-02-22 13:22:31,965 - OrangeHrm -INFO - Entered Username
+2022-02-22 13:22:36,134 - OrangeHrm -INFO - Entered Password
+2022-02-22 13:22:43,592 - OrangeHrm -INFO - Click operation
+2022-02-22 13:22:43,594 - OrangeHrm -INFO - Logger is Added
+2022-02-22 13:29:03,786 - OrangeHrm -INFO - Entered Username
+2022-02-22 13:29:08,571 - OrangeHrm -INFO - Entered Password
+2022-02-22 13:29:14,002 - OrangeHrm -INFO - Click operation
+2022-02-22 13:29:14,003 - OrangeHrm -INFO - Logger is Added
+2022-02-22 13:30:35,257 - OrangeHrm -INFO - Entered Username
+2022-02-22 13:30:39,669 - OrangeHrm -INFO - Entered Password
+2022-02-22 13:30:54,395 - OrangeHrm -INFO - Click operation
+2022-02-22 13:30:54,395 - OrangeHrm -INFO - Logger is Added
+2022-02-22 13:30:54,706 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-02-22 13:48:56,563 - OrangeHrm -INFO - Entered Username
+2022-02-22 13:49:00,912 - OrangeHrm -INFO - Entered Password
+2022-02-22 13:49:10,290 - OrangeHrm -INFO - Click operation
+2022-02-22 13:49:10,291 - OrangeHrm -INFO - Logger is Added
+2022-02-22 13:56:36,060 - OrangeHrm -INFO - Entered Username
+2022-02-22 13:56:40,925 - OrangeHrm -INFO - Entered Password
+2022-02-22 13:56:51,792 - OrangeHrm -INFO - Click operation
+2022-02-22 13:56:51,792 - OrangeHrm -INFO - Logger is Added
+2022-02-22 13:56:52,049 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-02-22 13:58:07,198 - OrangeHrm -INFO - Entered Username
+2022-02-22 13:58:11,516 - OrangeHrm -INFO - Entered Password
+2022-02-22 13:58:20,508 - OrangeHrm -INFO - Click operation
+2022-02-22 13:58:20,509 - OrangeHrm -INFO - Logger is Added
+2022-02-22 13:58:21,001 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-02-22 13:58:59,026 - OrangeHrm -INFO - Entered Username
+2022-02-22 13:59:03,535 - OrangeHrm -INFO - Entered Password
+2022-02-22 13:59:13,688 - OrangeHrm -INFO - Click operation
+2022-02-22 13:59:13,689 - OrangeHrm -INFO - Logger is Added
+2022-02-22 13:59:14,071 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-02-22 14:01:10,915 - OrangeHrm -INFO - Entered Username
+2022-02-22 14:01:15,682 - OrangeHrm -INFO - Entered Password
+2022-02-22 14:01:27,005 - OrangeHrm -INFO - Click operation
+2022-02-22 14:01:27,006 - OrangeHrm -INFO - Logger is Added
+2022-02-22 14:01:27,565 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-02-22 14:44:48,694 - OrangeHrm -INFO - Entered Username
+2022-02-22 14:44:52,961 - OrangeHrm -INFO - Entered Password
+2022-02-22 14:45:02,144 - OrangeHrm -INFO - Click operation
+2022-02-22 14:45:02,145 - OrangeHrm -INFO - Logger is Added
+2022-02-22 14:46:58,558 - OrangeHrm -INFO - Entered Username
+2022-02-22 14:47:02,690 - OrangeHrm -INFO - Entered Password
+2022-02-22 14:47:10,903 - OrangeHrm -INFO - Click operation
+2022-02-22 14:47:10,904 - OrangeHrm -INFO - Logger is Added
+2022-02-22 15:10:51,361 - OrangeHrm -INFO - Entered Username
+2022-02-22 15:10:55,646 - OrangeHrm -INFO - Entered Password
+2022-02-22 15:11:05,622 - OrangeHrm -INFO - Click operation
+2022-02-22 15:11:05,624 - OrangeHrm -INFO - Logger is Added
+2022-02-22 20:07:50,997 - OrangeHrm -INFO - Entered Username
+2022-02-22 20:07:55,320 - OrangeHrm -INFO - Entered Password
+2022-02-22 20:08:05,746 - OrangeHrm -INFO - Click operation
+2022-02-22 20:08:05,747 - OrangeHrm -INFO - Logger is Added
+2022-02-22 20:10:18,427 - OrangeHrm -INFO - Entered Username
+2022-02-22 20:10:22,541 - OrangeHrm -INFO - Entered Password
+2022-02-22 20:10:33,287 - OrangeHrm -INFO - Click operation
+2022-02-22 20:10:33,288 - OrangeHrm -INFO - Logger is Added
+2022-02-23 08:14:39,365 - OrangeHrm -INFO - Entered Username
+2022-02-23 08:14:43,551 - OrangeHrm -INFO - Entered Password
+2022-02-23 08:14:53,240 - OrangeHrm -INFO - Click operation
+2022-02-23 08:14:53,241 - OrangeHrm -INFO - Logger is Added
+2022-02-23 08:16:09,460 - OrangeHrm -INFO - Entered Username
+2022-02-23 08:16:13,572 - OrangeHrm -INFO - Entered Password
+2022-02-23 08:16:22,492 - OrangeHrm -INFO - Click operation
+2022-02-23 08:16:22,493 - OrangeHrm -INFO - Logger is Added
+2022-02-23 08:18:48,592 - OrangeHrm -INFO - Entered Username
+2022-02-23 08:18:52,735 - OrangeHrm -INFO - Entered Password
+2022-02-23 08:19:02,279 - OrangeHrm -INFO - Click operation
+2022-02-23 08:19:02,282 - OrangeHrm -INFO - Logger is Added
+2022-02-23 08:31:27,447 - OrangeHrm -INFO - Entered Username
+2022-02-23 08:31:32,753 - OrangeHrm -INFO - Entered Password
+2022-02-23 08:31:42,022 - OrangeHrm -INFO - Click operation
+2022-02-23 08:31:42,023 - OrangeHrm -INFO - Logger is Added
+2022-02-23 08:34:07,422 - OrangeHrm -INFO - Entered Username
+2022-02-23 08:34:11,948 - OrangeHrm -INFO - Entered Password
+2022-02-23 08:34:21,643 - OrangeHrm -INFO - Click operation
+2022-02-23 08:34:21,643 - OrangeHrm -INFO - Logger is Added
+2022-02-23 08:34:22,415 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-02-23 08:38:32,000 - OrangeHrm -INFO - Entered Username
+2022-02-23 08:38:36,760 - OrangeHrm -INFO - Entered Password
+2022-02-23 08:38:47,007 - OrangeHrm -INFO - Click operation
+2022-02-23 08:38:47,008 - OrangeHrm -INFO - Logger is Added
+2022-02-23 08:44:59,075 - OrangeHrm -INFO - Entered Username
+2022-02-23 08:45:03,338 - OrangeHrm -INFO - Entered Password
+2022-02-23 08:45:13,704 - OrangeHrm -INFO - Click operation
+2022-02-23 08:45:13,704 - OrangeHrm -INFO - Logger is Added
+2022-02-23 08:45:13,906 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-02-23 08:47:35,286 - OrangeHrm -INFO - Entered Username
+2022-02-23 08:47:39,432 - OrangeHrm -INFO - Entered Password
+2022-02-23 08:47:49,551 - OrangeHrm -INFO - Click operation
+2022-02-23 08:47:49,552 - OrangeHrm -INFO - Logger is Added
+2022-02-28 19:54:45,370 - OrangeHrm -INFO - Entered Username
+2022-02-28 19:54:49,589 - OrangeHrm -INFO - Entered Password
+2022-02-28 19:54:54,782 - OrangeHrm -INFO - Click operation
+2022-02-28 19:54:54,782 - OrangeHrm -INFO - Logger is Added
+2022-02-28 20:01:12,932 - OrangeHrm -INFO - Entered Username
+2022-02-28 20:01:17,886 - OrangeHrm -INFO - Entered Password
+2022-02-28 20:01:23,320 - OrangeHrm -INFO - Click operation
+2022-02-28 20:01:23,321 - OrangeHrm -INFO - Logger is Added
+2022-02-28 20:07:28,093 - OrangeHrm -INFO - Entered Username
+2022-02-28 20:07:32,744 - OrangeHrm -INFO - Entered Password
+2022-02-28 20:07:37,307 - OrangeHrm -INFO - Click operation
+2022-02-28 20:07:37,307 - OrangeHrm -INFO - Logger is Added
+2022-02-28 20:07:50,389 - OrangeHrm -INFO - Username Entered
+2022-02-28 20:07:50,509 - OrangeHrm -INFO - Password Entered
+2022-02-28 20:07:53,094 - OrangeHrm -INFO - clicked
+2022-02-28 20:11:55,074 - OrangeHrm -INFO - Entered Username
+2022-02-28 20:11:59,186 - OrangeHrm -INFO - Entered Password
+2022-02-28 20:12:04,289 - OrangeHrm -INFO - Click operation
+2022-02-28 20:12:04,290 - OrangeHrm -INFO - Logger is Added
+2022-02-28 20:12:17,040 - OrangeHrm -INFO - Username Entered
+2022-02-28 20:12:17,165 - OrangeHrm -INFO - Password Entered
+2022-02-28 20:12:19,761 - OrangeHrm -INFO - clicked
+2022-02-28 20:16:13,270 - OrangeHrm -INFO - Entered Username
+2022-02-28 20:16:17,408 - OrangeHrm -INFO - Entered Password
+2022-02-28 20:16:22,889 - OrangeHrm -INFO - Click operation
+2022-02-28 20:16:22,890 - OrangeHrm -INFO - Logger is Added
+2022-02-28 20:16:34,779 - OrangeHrm -INFO - Username Entered
+2022-02-28 20:16:34,905 - OrangeHrm -INFO - Password Entered
+2022-02-28 20:16:38,267 - OrangeHrm -INFO - clicked
+2022-03-01 07:44:38,221 - OrangeHrm -INFO - Entered Username
+2022-03-01 07:44:43,084 - OrangeHrm -INFO - Entered Password
+2022-03-01 07:44:53,003 - OrangeHrm -INFO - Click operation
+2022-03-01 07:44:53,004 - OrangeHrm -INFO - Logger is Added
+2022-03-01 07:45:49,329 - OrangeHrm -INFO - Username Entered
+2022-03-01 07:45:50,004 - OrangeHrm -INFO - Password Entered
+2022-03-01 07:45:56,488 - OrangeHrm -INFO - clicked
+2022-03-01 07:46:04,846 - OrangeHrm -INFO - Click action on PIM
+2022-03-01 07:46:06,201 - OrangeHrm -INFO - Ad Emp
+2022-03-01 07:46:06,480 - OrangeHrm -INFO - First Name
+2022-03-01 07:46:06,674 - OrangeHrm -INFO - Middle Name
+2022-03-01 07:46:07,045 - OrangeHrm -INFO - Last Name
+2022-03-01 07:46:10,281 - OrangeHrm -INFO - Click action
+2022-03-01 07:49:44,295 - OrangeHrm -INFO - Entered Username
+2022-03-01 07:49:48,794 - OrangeHrm -INFO - Entered Password
+2022-03-01 07:49:58,468 - OrangeHrm -INFO - Click operation
+2022-03-01 07:49:58,468 - OrangeHrm -INFO - Logger is Added
+2022-03-01 07:50:47,159 - OrangeHrm -INFO - Username Entered
+2022-03-01 07:50:47,265 - OrangeHrm -INFO - Password Entered
+2022-03-01 07:50:53,767 - OrangeHrm -INFO - clicked
+2022-03-01 07:51:02,719 - OrangeHrm -INFO - Click action on PIM
+2022-03-01 07:51:04,001 - OrangeHrm -INFO - Ad Emp
+2022-03-01 07:51:04,449 - OrangeHrm -INFO - First Name
+2022-03-01 07:51:04,715 - OrangeHrm -INFO - Middle Name
+2022-03-01 07:51:04,822 - OrangeHrm -INFO - Last Name
+2022-03-01 07:51:08,203 - OrangeHrm -INFO - Click action
+2022-03-01 07:53:42,413 - OrangeHrm -INFO - Entered Username
+2022-03-01 07:53:46,776 - OrangeHrm -INFO - Entered Password
+2022-03-01 07:53:57,132 - OrangeHrm -INFO - Click operation
+2022-03-01 07:53:57,133 - OrangeHrm -INFO - Logger is Added
+2022-03-01 07:53:57,398 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-03-01 07:54:28,649 - OrangeHrm -INFO - Username Entered
+2022-03-01 07:54:28,756 - OrangeHrm -INFO - Password Entered
+2022-03-01 07:54:35,834 - OrangeHrm -INFO - clicked
+2022-03-01 07:54:44,241 - OrangeHrm -INFO - Click action on PIM
+2022-03-01 07:54:46,109 - OrangeHrm -INFO - Ad Emp
+2022-03-01 07:54:46,601 - OrangeHrm -INFO - First Name
+2022-03-01 07:54:46,740 - OrangeHrm -INFO - Middle Name
+2022-03-01 07:54:46,854 - OrangeHrm -INFO - Last Name
+2022-03-01 07:54:49,259 - OrangeHrm -INFO - Click action
+2022-03-01 07:56:40,662 - OrangeHrm -INFO - Entered Username
+2022-03-01 07:56:44,878 - OrangeHrm -INFO - Entered Password
+2022-03-01 07:56:54,822 - OrangeHrm -INFO - Click operation
+2022-03-01 07:56:54,823 - OrangeHrm -INFO - Logger is Added
+2022-03-01 07:56:55,158 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-03-01 07:57:17,390 - OrangeHrm -INFO - Username Entered
+2022-03-01 07:57:17,524 - OrangeHrm -INFO - Password Entered
+2022-03-01 07:57:23,630 - OrangeHrm -INFO - clicked
+2022-03-01 07:57:31,869 - OrangeHrm -INFO - Click action on PIM
+2022-03-01 07:57:32,966 - OrangeHrm -INFO - Ad Emp
+2022-03-01 07:57:33,262 - OrangeHrm -INFO - First Name
+2022-03-01 07:57:33,519 - OrangeHrm -INFO - Middle Name
+2022-03-01 07:57:33,625 - OrangeHrm -INFO - Last Name
+2022-03-01 07:57:36,993 - OrangeHrm -INFO - Click action
+2022-03-01 08:01:57,760 - OrangeHrm -INFO - Entered Username
+2022-03-01 08:02:02,107 - OrangeHrm -INFO - Entered Password
+2022-03-01 08:02:12,204 - OrangeHrm -INFO - Click operation
+2022-03-01 08:02:12,205 - OrangeHrm -INFO - Logger is Added
+2022-03-01 08:02:41,569 - OrangeHrm -INFO - Username Entered
+2022-03-01 08:02:41,686 - OrangeHrm -INFO - Password Entered
+2022-03-01 08:02:48,316 - OrangeHrm -INFO - clicked
+2022-03-01 08:02:58,226 - OrangeHrm -INFO - Click action on PIM
+2022-03-01 08:03:01,453 - OrangeHrm -INFO - Ad Emp
+2022-03-01 08:03:02,190 - OrangeHrm -INFO - First Name
+2022-03-01 08:03:02,551 - OrangeHrm -INFO - Middle Name
+2022-03-01 08:03:02,679 - OrangeHrm -INFO - Last Name
+2022-03-01 08:03:06,816 - OrangeHrm -INFO - Click action
+2022-03-01 16:35:45,071 - OrangeHrm -INFO - Entered Username
+2022-03-01 16:35:49,421 - OrangeHrm -INFO - Entered Password
+2022-03-01 16:35:59,258 - OrangeHrm -INFO - Click operation
+2022-03-01 16:35:59,258 - OrangeHrm -INFO - Logger is Added
+2022-03-01 16:36:30,136 - OrangeHrm -INFO - Username Entered
+2022-03-01 16:36:30,533 - OrangeHrm -INFO - Password Entered
+2022-03-01 16:36:40,550 - OrangeHrm -INFO - clicked
+2022-03-01 16:36:50,007 - OrangeHrm -INFO - Click action on PIM
+2022-03-01 16:36:52,389 - OrangeHrm -INFO - Ad Emp
+2022-03-01 16:36:52,627 - OrangeHrm -INFO - First Name
+2022-03-01 16:36:52,763 - OrangeHrm -INFO - Middle Name
+2022-03-01 16:36:52,880 - OrangeHrm -INFO - Last Name
+2022-03-01 16:36:55,737 - OrangeHrm -INFO - Click action
