@@ -5,7 +5,7 @@
     <listener class-name="com.utilities.Reporting"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="browser" value="chrome"/>
+    <parameter name="browser" value="ie"/>
     <classes>
       <class name="com.testcases.LoginDDT">
         <methods>
@@ -14,6 +14,20 @@
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.testcases.LoginDDT -->
+      <class name="com.testcases.TC_Login_001">
+        <methods>
+          <include name="setup"/>
+          <include name="loginTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.testcases.TC_Login_001 -->
+      <class name="com.testcases.TC_AddEmployee_002">
+        <methods>
+          <include name="AddEmpTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.testcases.TC_AddEmployee_002 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
